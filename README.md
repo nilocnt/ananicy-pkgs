@@ -1,4 +1,4 @@
-# Ananicy-CPP Debian Package
+# Ananicy-CPP Packages
 
 [![GitHub Release](https://img.shields.io/github/v/release/nilocnt/ananicy-debian?style=for-the-badge)](https://github.com/nilocnt/ananicy-debian/releases)
 [![Package](https://img.shields.io/badge/package-.deb-orange?style=for-the-badge&logo=debian)](https://github.com/nilocnt/ananicy-debian/releases/latest)
