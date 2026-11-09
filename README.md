@@ -43,7 +43,7 @@ The package declares its runtime dependencies in `DEBIAN/control`, including `sy
 Download the latest package from the [GitHub Releases page](https://github.com/nilocnt/ananicy-debian/releases/latest), then install it with:
 
 ```bash
-sudo apt install ./ananicy-debian_VERSION_amd64.deb
+sudo apt install ./ananicy-debian_1.2.49-1_amd64.deb
 ```
 ```bash
 sudo dnf install ./ananicy-cpp-1.2.49-1.fc45.x86_64.rpm
