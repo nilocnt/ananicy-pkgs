@@ -45,6 +45,9 @@ Download the latest package from the [GitHub Releases page](https://github.com/n
 ```bash
 sudo apt install ./ananicy-debian_VERSION_amd64.deb
 ```
+```bash
+sudo dnf install ./ananicy-cpp-1.2.49-1.fc45.x86_64.rpm
+```
 
 The package enables and starts `ananicy-cpp.service` automatically when systemd is available.
 
