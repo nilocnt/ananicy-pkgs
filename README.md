@@ -5,15 +5,15 @@
 [![Architecture](https://img.shields.io/badge/architecture-amd64-green?style=for-the-badge)](https://github.com/nilocnt/ananicy-debian/releases/latest)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 
-An unofficial Debian package of [Ananicy-CPP](https://gitlab.com/ananicy-cpp/ananicy-cpp), bundled with the community-maintained rules from [ananicy-rules](https://github.com/CachyOS/ananicy-rules).
+This version provides an unofficial package for [Ananicy-CPP](https://gitlab.com/ananicy-cpp/ananicy-cpp) — including the community-maintained rules from [ananicy-rules](https://github.com/CachyOS/ananicy-rules) (by CachyOS) — for Debian and Fedora-based systems with `amd64` / `x86_64` architecture.
 
-The package provides a ready-to-use systemd service for Debian/Ubuntu and compatible distributions.
+The package provides a ready-to-use systemd service for Debian/Ubuntu and Fedora compatible distributions.
 
 ## Overview
 
 Ananicy-CPP is a daemon that automatically adjusts process priorities according to configurable rules. It can manage `nice`, `ionice`, scheduler attributes, OOM score adjustments, and cgroups to improve responsiveness for interactive workloads.
 
-This repository is a downstream packaging project. It combines the Ananicy-CPP executable, the packaged rule set, configuration files, and systemd integration into an installable `amd64` Debian package.
+This repository is a *downstream* packaging project. It combines the Ananicy-CPP executable, a bundled set of rules, configuration files, and systemd integration into installable packages for the amd64 / x86_64 architecture.
 
 ## Features
 
